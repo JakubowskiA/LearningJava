@@ -30,3 +30,6 @@ switch (mood) {
 // ARRAYS
 
 animals = {"dog", "cat", "bird", "fish", "horse"};
+
+int howManyAnimals = animals.length;
+
