@@ -33,3 +33,9 @@ String[] animals = {"dog", "cat", "bird", "fish", "horse"};
 
 int howManyAnimals = animals.length;
 
+ArrayList <String> animalList = {"dog", "cat", "bird", "fish", "horse"};
+
+animalList.add("hamster");
+
+
+
