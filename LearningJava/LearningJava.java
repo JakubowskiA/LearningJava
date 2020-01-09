@@ -26,3 +26,7 @@ switch (mood) {
       System.out.println("Pet your dog.");
 }
 
+
+// ARRAYS
+
+animals = {"dog", "cat", "bird", "fish", "horse"};
